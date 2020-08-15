@@ -1,0 +1,152 @@
+  #content > .page-content {
+    min-height: 50vh !important;
+    padding: 30px 15px;
+  }
+  .breadcromb-area{
+      min-height: 150px;
+      background-image: url('/img/breadcrumb.jpg');
+      background-size: cover;
+      padding: 40px;
+      color: #fff
+  }
+
+  .btn-excel{
+    background-color: #ae0200 !important;
+    color: #fff !important;
+    border-radius: 10px;
+  }
+
+   .btn-excel:hover{
+      background: blue;
+      color: #fff;
+      border-radius: 10px;
+   }
+
+   .bg-gradient-default {
+      background: linear-gradient(87deg, #172b4d 0, #1a174d 100%) !important;
+   }
+
+   .shadow {
+      box-shadow: 0 0 2rem 0 rgba(136, 152, 170, .15) !important;
+   }
+
+   .card-header {
+      background-color: #ae0200 !important;
+      color: #ffffff !important;
+   }
+
+   .card-footer {
+      color: #ae0200 !important;
+      background-color: #ffffff !important;
+   }
+
+   .sidebar-dark-primary {
+      background-color: #fff;
+      color: red;
+   }
+
+   .nav-sidebar .nav-item > .nav-link {
+    position: relative;
+    color: #333;
+    font-weight: bolder;
+  }
+
+  .nav-item a:hover {
+    position: relative;
+    background-color: #AE0200 !important;
+    color: #fff;
+    font-weight: bolder;
+  }
+
+  .portfolio-item {
+  position: relative;
+  background: #FFF;
+  background-clip: border-box;
+  margin-bottom: 10px;
+  border: 8px solid #FFF;
+  -webkit-border-radius: 5px;
+  -webkit-background-clip: padding-box;
+  -moz-border-radius: 5px;
+  -moz-background-clip: padding;
+  border-radius: 5px;
+  background-clip: padding-box;
+  -webkit-box-shadow: inset 0 1px #fff,0 0 8px #c8cfe6;
+  -moz-box-shadow: inset 0 1px #fff,0 0 8px #c8cfe6;
+  box-shadow: inset 0 1px #fff,0 0 8px #c8cfe6;
+  color: inset 0 1px #fff,0 0 8px #c8cfe6;
+  -webkit-transition: all .5s ease;
+  -moz-transition: all .5s ease;
+  -o-transition: all .5s ease;
+  -ms-transition: all .5s ease;
+  transition: all .5s ease;
+}
+
+.portfolio-image{
+  height: 200px
+}
+
+.page-title{
+  color: #B30200;
+  font-weight: bolder;
+  text-transform: uppercase;
+}
+
+.btn-exel{
+  background:#B30200;
+  color: #fff;
+}
+
+.btn-exel:hover{
+  background:black;
+  color: #fff;
+}
+
+.header-title{
+  color: #B30200;
+  font-weight: bolder;
+}
+
+.product-hover:hover {
+  border-style: solid;
+  border-color: #DDD !important;
+}
+
+.product-hover {
+    padding: 15px;
+    margin-bottom: 10px;
+    border: 3px solid transparent;
+    border-radius: 5px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.router-link-exact-active {
+  background-color: #AE0200;
+  color: #fff !important;
+}
+ 
+.nav-link a:hover{
+  background-color: #AE0200;
+  color: #fff !important;
+}
+
+.sidebar-dark-primary .nav-treeview > .nav-item > .nav-link {
+    color: #333 ! important;
+}
+
+.sidebar-dark-primary .nav-treeview > .nav-item > .nav-link:hover {
+    color: #fff! important;
+}
+
+.menu-open{
+  background-color: #AE0200;
+  color: #fff !important;
+}
+
+.sidebar-dark-primary .nav-sidebar > .nav-item > .nav-treeview {
+    background: #fff !important;
+}
